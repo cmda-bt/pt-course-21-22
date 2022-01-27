@@ -17,7 +17,7 @@ This getting started guide will get you up and running with all the software and
 
 ### Text Editor
 
-If you don’t have one yet, install a text editor. It doesn't really matter which one you pick, as long as you feel comfortable using it. However, we do recommend moving away from [Brackets](http://brackets.io/), other editors offer better customizability. [VSCode](https://code.visualstudio.com/) is our recommended choice but there are other.  [Atom](https://atom.io) and [Sublime](https://www.sublimetext.com) are both also good choices. 
+If you don’t have one yet, install a text editor. It doesn't really matter which one you pick, as long as you feel comfortable using it. However, we do recommend moving away from [Brackets](http://brackets.io/), other editors offer better customizability. [VSCode](https://code.visualstudio.com/) is our recommended choice but there are others.  [Atom](https://atom.io) and [Sublime](https://www.sublimetext.com) are both also good choices. 
 
 > Take some time to [learn the interface and features of VSCode][learnvs]. If you know your way around the interface, coding will be easier. Feeling comfortable with your tools is very important when writing code.
 
@@ -44,7 +44,7 @@ If you’re on Windows, you should upgrade to _Windows 10 (1903)_ and install th
 > 💡 Be ware that lecturers may not be able to help you with very specific Windows problems. Additionally some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivelant experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
 
 *MacOS:*  
-Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. There are other command-line interfaces out there you can download that add more feature. [Hyper](https://hyper.is/) and [iTerm](https://iterm2.com/) are very popular choices.
+Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. There are other command-line interfaces out there you can download that add more features. [Hyper](https://hyper.is/) and [iTerm](https://iterm2.com/) are very popular choices. Many people also like to use the [Intergrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) directly in your code editor like in VSCode.
 
 > 💡 If you have a Mac running MacOS Catalina (or above) the current default shell is `zsh`, previously this was `bash`. If `bash` is still the default on your machine we highly suggest you switch your default shell to `zsh` [using this Apple support article](https://support.apple.com/en-us/HT208050).
 
@@ -82,7 +82,7 @@ Use the same email for Git as you used to sign up for GitHub.
 
 ### Brightspace
 
-We use our DLO Brightspace for schedulers and rubric feedback. Make sure you enroll to the **Project-tech** course, you can do so by using the [HvA courseselector][course]. It's important to **select the right class** for teachers to give you feedback and grades. If you're not sure, ask your teacher to see if you are on the correct _classlist_.
+We use our DLO Brightspace for schedulers and rubric feedback. Make sure you enroll to the **Project-tech** course, you can do so by using the [HvA courseselector][course]. It's important to **select the right class** for teachers to give you feedback and grades. Go to Administration > Groups and pick the right class. If you're not sure, ask your teacher to see if you are on the correct _classlist_.
 
 ### Microsoft Teams
 
@@ -95,11 +95,11 @@ GitHub is a social platform so give this repository `pt-course-20-21` [a ⭐ sta
 
 ## Introduction
 
-**Wow, you did it! Virtual high five! 🖐** Now you can introduce yourself to your teacher and class. Open an issue on our [GitHub issue tracker][issues]. You can pick what are called `issue templates`. Pick the `Introduction` template and fill in the details, then submit.
+**Wow, you did it! Virtual high five! 🖐** During this course we'll use GitHub issues and templates. Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where teachers and student-assistants will give you feedback. You can use [GitHub notifications][notifications] (bell on the top right of the GitHub website) to keep track of those changes.
 
 > 🚨 Make sure you never publicly share you name and student number in combination! If you fill in your class you can **use your tech group** `tech-x` not your 'regular' `20x` group.
 
-Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where teachers and student-assistants will give you feedback. You can use [GitHub notifications][notifications] (bell on the top right of the GitHub website) to keep track of changes.
+/Happy Coding!
 
 [banner-guide]: https://cmda-bt.github.io/pt-course-20-21/assets/banner-guide.svg
 [examples]: examples

@@ -1,7 +1,5 @@
  # ![Project Tech - Course 2020-2021][banner]
 
-> **Note**: Project-tech has concluded for 2020/2021. Next year will be a new, changed, curriculum. Have a look at the [`/examples`](/examples) folder to see some results from this year. A big thank you to our all our students, student assistants and teachers!
-
 ## Table of Content
 
 *   [Synopsis](#synopsis)
@@ -16,13 +14,13 @@
 
 ## Synopsis
 
-The course **Project-tech** is given at [**@CMDA**][cmda] in 2021 between February 3 and June 26.
+The course **Project-tech** is given at [**@CMDA**][cmda] in 2022 between February and June.
 
-*   **Course**: [Project Tech][course] (`2000PTEC16`)
-*   **Coordinator(s)**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Rijk van Zanten][rijkgit] - r.vanzanten@hva.nl
-*   **Lecturers**: [Danny de Vries][dangit] ([**@dandevri**][danweb]), [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit]), [Robert Spier][robgit] ([**roberrrt-s**][robgit]) and [Rijk van Zanten][rijkgit] ([**@rijkvanzanten**][rijkgit])
+*   **Course**: [Project Tech][course] (`2000PTEC21`)
+*   **Coordinator(s)**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Ivo Nijhuis][ivogit] - i.nijhuis@hva.nl
+*   **Lecturers**: [Danny de Vries][dangit] ([**@dandevri**][danweb]), [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit]) and [Robert Spier][robgit] ([**roberrrt-s**][robgit]) 
 *   **Credit**: 5 ECTS
-*   **Academic year**: 2020-2021
+*   **Academic year**: 2021-2022
 *   **Period**: Quarter 3 (spring)
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmd] (full time bachelor CROHO: `34092`)
@@ -35,7 +33,7 @@ Project Tech is your first stepping stone to become a well-rounded web developer
 
 We’ll focus on what it means to be a web deveveloper, the current landscape of that space, and topics such as privacy, security, diversity, inclusion, accessibility, communication and team work.
 
-Projecttech is an elective course given in Quarter 3 (spring) after the core curriculum of our programme, building further on knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. This course is chosen alongside **Frontend 2** and **Back-end**, together making up Block Tech. 
+Project-tech is an elective course given in Quarter 3 (spring) after the core curriculum of our programme, building further on knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. This course is chosen alongside **Frontend 2** and **Back-end**, together making up Block Tech. 
 
 If you’d like to continue with web development after this course, do a tech internship, choose the [Tech Track][track] for the fall semester next year, and pick [Minor Everything Web][minor] in the spring semester after that. Just a quick check if anyone actually reads this: if you see this, please send your teacher a picture of your favorite animal.
 
@@ -103,15 +101,15 @@ The below table breaks down the general time needed per week.
 
 | Week | Effort | Topic            | Activities                                             |
 | ---- | -----: | ---------------- | ------------------------------------------------------ |
-| 0    |  NaN   | getting started  | [getting started][gs]                                  |
-| 1    |  9:20h | github           | [lab][w1lab], [lecture][w1lec], [assignments][w1a]     |
-| 2    |  9:20h | terminal       | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
-| 3    |  9:20h | linting            | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
-| 4    |  9:20h | code quality        | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
-| 5    |  NaN   | assessment 1     | [a1 (oral test)][grading]                              |
-| 6    | 13:20h | prototype          | [lab][w6lab],  work on prototype                       |
-| 7    | 13:20h | prototype        | [lab][w6lab],  work on prototype                       |
-| 8    |  NaN   | assessment 2     | [a2 (oral test)][grading]                              |  
+| 0    |  NaN   | getting started  | getting started                                  |
+| 1    |  9:20h | github           | lab     |
+| 2    |  9:20h | terminal       | lab     |
+| 3    |  9:20h | linting            | lab |
+| 4    |  9:20h | code quality        |lab     |
+| 5    |  NaN   | assessment 1     | a1                              |
+| 6    | 13:20h | prototype          | lab (work on team application)                      |
+| 7    | 13:20h | prototype        | lab (work ont team application                       |
+| 8    |  NaN   | assessment 2     | a2                              |  
 
 > Check [`rooster.hva.nl`][class] for exact class dates
 

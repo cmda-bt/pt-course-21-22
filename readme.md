@@ -155,12 +155,11 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 
 [MIT][] © [Danny de Vries][dangit], docs and images are [CC-BY-4.0][].
 
-[banner]: https://cmda-bt.github.io/pt-course-20-21/assets/banner.svg
+[banner]: https://cmda-bt.github.io/pt-course-21-22/assets/banner.svg
 [cmd]: https://www.cmd-amsterdam.nl/english/
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
 [danweb]: https://github.com/dandevri
-[rijkgit]: https://github.com/rijkvanzanten
 [ivogit]: https://github.com/ivo-online
 [robgit]: https://github.com/roberrrt-s
 [node]: https://nodejs.org/en/

@@ -68,6 +68,14 @@ Take a couple of hours to learn about Git stategies and version control with Git
 
 Implement **your git strategy**. How are you going to write commit messages? Are you going to make branches? Are you going to use issues or projects? _Don't forget to document your research and final strategy to your wiki_. Start using the command line to version control your matching-application. Just see how you like it and what the benefits are to using Git on the terminal. You can always switch back to version control trough your editor or a GUI.
 
+A good point to start your research is to think about your requirements and preferences. Do you need a git strategy that:
+* is really simple and easy to use?
+* is really powerful and gives you access to all options and settings?
+* makes it easy for team members to keep up to date with code changes?
+* gives a clear overview of progress: what's done and what's next?
+* anything else you can think of?
+
+Think about what criteria are most important to you, and then compare two or three approaches, based on those criteria.
 
 ### Building
 ![Building Banner](assets/banners/banner-building.jpg)
@@ -85,7 +93,7 @@ Based on the concept, job story, requirement list and wireframe from the previou
 
 * Turn your wireframe **into HTML pages**. Do a HTML breakdown of your wireframe and use semantic HTML as learned in previous courses.
 * Add **presentational CSS** to set-up some basic style. Think about colors, fonts, lay-out, responsiveness. 
-* Add **interaction and statess**, make sure it feels like an actual webpage. Add states to interactive elements, maybe add some animations and transitions.
+* Add **interaction and states**, make sure it feels like an actual webpage. Add states to interactive elements, maybe add some animations and transitions.
 * Don't forget to think about the **flow of your application** (zero states, happy flow, error states). Do you need multiple pages?
 
 > 💡There is no criteria that you web application should be responsive. **Pick the device that best fits your concept.** We suggest you build your front-end _mobile-first_ but, for example, if your application is about PC games (Steam) it might make more sense to go for a _desktop-first_ approach.

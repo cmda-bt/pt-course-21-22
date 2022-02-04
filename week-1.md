@@ -91,8 +91,9 @@ Think about what feature you are going to work on for the individual part of thi
 
 1. Write ~5 [Job Stories][jobs] (to generate ideas) and pick one to continue working on.
 2. 'Split up' your Job Story into concrete requirements (taks) by making a [requirements list][requirements]
-3. Think about your concept and target audience. It always helps to have one core audience you will be designing for. For example; sport fanatics to match people based on sports, netflixers to match people based on what series they want to watch etc.
-4. Create a small [wireframe (napkin quality)][wireframe] to roughly sketch out how your interface should look.
+3. Think about your target audience. It always helps to have one core audience you will be designing for. For example; sport fanatics to match people based on sports, netflixers to match people based on what series they want to watch etc. Do some research about your audience and add it to your wiki: what do you know about these people, what are their wishes and challenges? Can you find more information about them online? Can you talk to a few members of your target audience to ask them what they think is important?
+4. Think about your concept. Again, do some research and add it to your wiki. What are existing similar concepts that are already out there? Look into a few. What do they do really well that you can learn from, and where do you feel you really can do better than them?
+5. Create a small [wireframe (napkin quality)][wireframe] to roughly sketch out how your interface should look.
 
 #### Assignment
 

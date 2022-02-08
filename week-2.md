@@ -114,7 +114,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [inspiration-author]: https://github.com/abhisheknaiidu
 [quote-author]: https://github.com/ABSphreak
 
-[issues]: https://github.com/cmda-bt/pt-course-20-21/issues/new/choose
+[issues]: https://github.com/cmda-bt/pt-course-21-22/issues/new/choose
 [lab2]: /slides/pt_20-21_lab-2.pdf
 
 [markdown]: https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3

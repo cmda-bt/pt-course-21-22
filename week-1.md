@@ -117,7 +117,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [inspiration-author]: https://twitter.com/github
 [quote-author]: https://twitter.com/DLX
 
-[issues]: https://github.com/cmda-bt/pt-course-20-21/issues/new/choose
+[issues]: https://github.com/cmda-bt/pt-course-21-22/issues/new/choose
 [lab1]: /slides/pt_20-21_lab-1.pdf
 
 [wesboscli]: https://www.youtube.com/watch?v=DP218aBHm1Q

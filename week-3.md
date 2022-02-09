@@ -125,7 +125,7 @@ Improve the front-end interface of your feature, spend some time on animation an
 
 2. **Create an Issue**  
    Mark this assignment as completed by opening an issue on our
-   [Issue Tracker](https://github.com/cmda-bt/pt-course-20-21/issues/new/choose).
+   [Issue Tracker](https://github.com/cmda-bt/pt-course-21-22/issues/new/choose).
    Fill in the issue template of `week-3` with the correct information.
 
 3. **Feedback**  

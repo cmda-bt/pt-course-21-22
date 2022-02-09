@@ -106,7 +106,7 @@ Document all this research things in your wiki. Teachers will give feedback on y
 1. **Push your changes:**  
 Commit any code progess in your repository on GitHub under your username in your own matching-app repository. _Write down all the technical research you did, your Concept, Job Story and Requirements List in your wiki._
 
-2. **Create an issue:**  
+2. **Create an issue:**
 Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-1.md` with the correct information. Include what progress you made in the description of the issue.
 
 3. **Feedback:**
@@ -117,8 +117,8 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [inspiration-author]: https://twitter.com/github
 [quote-author]: https://twitter.com/DLX
 
-[issues]: https://github.com/cmda-bt/pt-course-20-21/issues/new/choose
-[lab1]: /slides/pt_lab-1-21-22.pdf
+[issues]: https://github.com/cmda-bt/pt-course-21-22/issues/new/choose
+[lab1]: /slides/pt_20-21_lab-1.pdf
 
 [wesboscli]: https://www.youtube.com/watch?v=DP218aBHm1Q
 [guidecli]: https://react.design/terminal

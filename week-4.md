@@ -91,7 +91,7 @@ Improve the front-end interface of your feature, improve the quality of the code
 
 2. **Create an Issue**  
    Mark this assignment as completed by opening an issue on our
-   [Issue Tracker](https://github.com/cmda-bt/pt-course-20-21/issues/new/choose).
+   [Issue Tracker](https://github.com/cmda-bt/pt-course-21-22/issues/new/choose).
    Fill in the issue template of `week-4` with the correct information.
 
 3. **Feedback**  

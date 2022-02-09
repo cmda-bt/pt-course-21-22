@@ -109,7 +109,7 @@ Commit any code progess in your repository on GitHub under your username in your
 2. **Create an issue:**  
 Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-1.md` with the correct information. Include what progress you made in the description of the issue.
 
-3. **Feedback:**  
+3. **Feedback:**
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
 
 [inspiration-cover]: assets/covers/octocat.png
@@ -118,7 +118,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [quote-author]: https://twitter.com/DLX
 
 [issues]: https://github.com/cmda-bt/pt-course-20-21/issues/new/choose
-[lab1]: /slides/pt_20-21_lab-1.pdf
+[lab1]: /slides/pt_lab-1-21-22.pdf
 
 [wesboscli]: https://www.youtube.com/watch?v=DP218aBHm1Q
 [guidecli]: https://react.design/terminal

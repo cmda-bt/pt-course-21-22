@@ -90,7 +90,7 @@ Sign up for our _Blok-Tech_ MS Team. **You can find the sign-up code in the anno
 
 ### GitHub
 
-GitHub is a social platform so give this repository `pt-course-20-21` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
+GitHub is a social platform so give this repository `pt-course-21-22` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
 
 
 ## Introduction
@@ -101,7 +101,7 @@ GitHub is a social platform so give this repository `pt-course-20-21` [a ⭐ sta
 
 /Happy Coding!
 
-[banner-guide]: https://cmda-bt.github.io/pt-course-20-21/assets/banner-guide.svg
+[banner-guide]: https://cmda-bt.github.io/pt-course-21-22/assets/banner-guide.svg
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
@@ -116,5 +116,5 @@ GitHub is a social platform so give this repository `pt-course-20-21` [a ⭐ sta
 [videotext]: https://www.youtube.com/watch?v=a2A_AGAnNjQ
 [videoorg]: https://www.youtube.com/watch?v=8w69jLPpPXM
 [videogit]: https://www.youtube.com/watch?v=Qq39mizx5kE
-[issues]: https://github.com/cmda-bt/pt-course-20-21/issues/new/choose
+[issues]: https://github.com/cmda-bt/pt-course-21-22/issues/new/choose
 [learnvs]: https://code.visualstudio.com/learntocode

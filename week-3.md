@@ -84,6 +84,18 @@ Besides editors, there's numerous tools available that'll help you _'cleanup'_ y
 
 Try to implement atleast **one linter** and **one formatter** in your project Additionally research what they do and document the research in your wiki. 
 
+Some tips to help you with your research:
+* There's a lot more out there than just EsLint & Prettier!
+* You could start by creating a list of options and then pick the two or three most promising candidates to compare in more depth
+* When comparing the alternatives, think about the requirements that may or may not be important to you:
+     * Do you want something that's easy to use out of the box (without configuration) or do you want fine control over settings?
+     * Is it easy to share your settings with others when working in a team?
+     * Do you want a tool that makes changes automatically or do you want to be in control?
+     * Do you want a tool to follow specific coding standards?
+     * What programming language(s) should it work with (JS / HTML / CSS / ... )?
+     * Is it free or are you willing to pay a small sum?
+     * And anything else that matters to you!
+
 _Pro Tip™_: Most linters are often available as extensions in text-editors. You install the extensions and the only thing you additionally have to do is to create a configuration file to tell the extension what rules to check for.
 
 ---

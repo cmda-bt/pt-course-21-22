@@ -115,7 +115,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [quote-author]: https://github.com/ABSphreak
 
 [issues]: https://github.com/cmda-bt/pt-course-21-22/issues/new/choose
-[lab2]: /slides/pt_20-21_lab-2.pdf
+[lab2]: /slides/pt_21-22_lab-2.pdf
 
 [markdown]: https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3
 [community]: https://opensource.guide/code-of-conduct/

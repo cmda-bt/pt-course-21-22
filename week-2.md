@@ -16,7 +16,7 @@
 * [Hand in](#hand-in)
 
 ## Slides
-* [Lab-2][lab2]
+* [Lab-2][slides/pt_lab-2_21-22.pdf]
 
 ## Assignments
 

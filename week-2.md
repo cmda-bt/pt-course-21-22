@@ -100,13 +100,13 @@ Based on the concept, job story, requirement list and wireframe from the previou
 
 ## Hand In
 
-1. **Push your changes:**  
+1. **Push your changes:**
 Commit any code progess in your repository on GitHub under your username in your own matching-app repository. Also write down any technical and design research you did in your wiki.
 
-1. **Create an issue:**  
+1. **Create an issue:**
 Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-2` with the correct information. Include what progress you made in the description of the issue.
 
-3. **Feedback:**  
+3. **Feedback:**
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
 
 [inspiration-cover]: assets/covers/profile.png

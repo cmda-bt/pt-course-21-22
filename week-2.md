@@ -16,7 +16,7 @@
 * [Hand in](#hand-in)
 
 ## Slides
-* [Lab-2][slides/pt_lab-2_21-22.pdf]
+* [Lab-2](https://github.com/cmda-bt/pt-course-21-22/blob/main/slides/pt_lab-2_21-22.pdf)
 
 ## Assignments
 

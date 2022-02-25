@@ -94,8 +94,6 @@ _Pro Tip™_: Most linters are often available as extensions in text-editors. Yo
 
 > Research and implement a build tool in your project
 
-Note: **This exercise is mainly for people from the _zwarte piste_.**. It's very useful to be aware of the various build tools and how they can help your project, but it's ok if it's a bit too much for now to start using.
-
 #### Synopsis
 
 - **Time**: 3:00h

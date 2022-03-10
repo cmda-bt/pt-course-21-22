@@ -101,4 +101,4 @@ Improve the front-end interface of your feature, improve the quality of the code
 
 [clean]: https://www.oreilly.com/library/view/clean-code-a/9780136083238/
 [patterns]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
-[lab4]: /slides/pt_20-21_lab-4.pdf
+[lab4]: /slides/pt_21-22_lab-4.pdf

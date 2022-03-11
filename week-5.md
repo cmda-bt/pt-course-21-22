@@ -62,4 +62,4 @@ Make sure you hand-in your work in the assignments `a1` slot on Brightspace.
 
 [scheduler]: https://dlo.mijnhva.nl/d2l/le/schedule/lim/instructor/192672/home
 [assignments]: https://dlo.mijnhva.nl/d2l/lms/dropbox/admin/folders_manage.d2l?ou=192672
-[review]: https://teams.microsoft.com/l/file/3E8C145D-2315-4C0F-B3B3-C51534EC659D?tenantId=0907bb1e-21fc-476f-8843-02d09ceb59a7&fileType=docx&objectUrl=https%3A%2F%2Ficthva.sharepoint.com%2Fsites%2FFDMCI_EDU_Blok_Tech_%2FShared%20Documents%2FProject-tech%2Fa1-peer-review_student.docx&baseUrl=https%3A%2F%2Ficthva.sharepoint.com%2Fsites%2FFDMCI_EDU_Blok_Tech_&serviceName=teams&threadId=19:06a467201f014e25a2efab85c61bf492@thread.tacv2&groupId=c1b68fb7-d0f6-49a0-86ed-f38f960578bc
+[review]: https://icthva.sharepoint.com/:w:/r/sites/FDMCI_EDU_CMD_Blok_Tech_CMD_2122/Gedeelde%20documenten/Project-tech/a1-peer-review_student.docx?d=w0bfba3a9bee04c64a359154bf5a2bab0&csf=1&web=1&e=vmbTao

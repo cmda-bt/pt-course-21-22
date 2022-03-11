@@ -45,7 +45,6 @@ If you have any question you can reach the student-assistants and teachers on MS
 Based on your repository, source code and local version you show what feature you've created for project-tech. The idea is not to present your feature, **a teacher will look through the code and wiki and ask questions**. By answering questions you demonstrate sufficient knowledge of our goals. _This is an individual test, so they will be conducted between one teacher and one student._
 
 → [Read more about Assessment 1](/grading/a1.md)  
-→ [Go to the scheduler on Brightspace][scheduler]
 
 ## Hand-in
 Make sure you hand-in your work in the assignments `a1` slot on Brightspace.
@@ -60,6 +59,5 @@ Make sure you hand-in your work in the assignments `a1` slot on Brightspace.
 [inspiration-link]: https://xkcd.com/303/
 [inspiration-author]: https://xkcd.com
 
-[scheduler]: https://dlo.mijnhva.nl/d2l/le/schedule/lim/instructor/192672/home
-[assignments]: https://dlo.mijnhva.nl/d2l/lms/dropbox/admin/folders_manage.d2l?ou=192672
+[assignments]: https://dlo.mijnhva.nl/d2l/lms/dropbox/admin/folders_manage.d2l?ou=324333
 [review]: https://icthva.sharepoint.com/:w:/r/sites/FDMCI_EDU_CMD_Blok_Tech_CMD_2122/Gedeelde%20documenten/Project-tech/a1-peer-review_student.docx?d=w0bfba3a9bee04c64a359154bf5a2bab0&csf=1&web=1&e=vmbTao

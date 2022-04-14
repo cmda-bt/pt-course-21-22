@@ -153,7 +153,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 
 ## License
 
-[MIT][/license.md] © [Danny de Vries][dangit], docs and images are [CC-BY-4.0][/license.md].
+[MIT](/license.md) © [Danny de Vries][dangit], docs and images are [CC-BY-4.0](/license.md).
 
 [banner]: https://cmda-bt.github.io/pt-course-21-22/assets/banner.svg
 [cmd]: https://www.cmd-amsterdam.nl/english/

@@ -20,3 +20,5 @@ The specific error your see here is due to a missing API key for an exteral API,
 ![Common error message when using nodemon](assets/errors/config-vars.png)
 
 Nodemon is a devDependency tool that allows us to restart the server when changes to the files have been made. It is a great development tool to speed up debugging and testing. However, it is not applicable when the server is already live, say on Heroku. Heroku has their own methods in place to ensure the server always stays up, even after accidentally crashing. In order to fix this error, you should change the content of your `package.json` starting script from `nodemon <index> / <server> / <app>.js` to node `node <index> / <server> / <app>.js`. If you still wish to continue using nodemon in your development environment, you should add another script, something like `dev` that uses `nodemon <index> / <server> / <app>.js`.
+
+<hr>

@@ -11,6 +11,7 @@
 * [Slides](#slides)
 * [Assignments](#assignments)
 * [Hand in](#hand-in)
+
 ## Slides
 
 * [Lab-4][lab4]
@@ -55,6 +56,7 @@ based on the questions they ask. It can be surprisingly difficult to find proble
 ![Deploy Banner](assets/banners/banner-deploy.jpg)
 
 > Put your app on the web!
+> If you find yourself troubled by Heroku errors? View the [troubleshooting guide!](docs/heroku-troubleshooting.md)
 
 #### Synopsis
 - **Time**: 2h (depending on what platform you pick)
